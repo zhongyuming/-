@@ -1,6 +1,0 @@
-{
-    "usingComponents": {
-        "serchinput": "../../components/serchinput/serchinput"
-    },
-    "navigationBarTitleText": "商品分类"
-}
